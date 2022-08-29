@@ -27,6 +27,6 @@ I liked a lot too about HTML5 and CSS3, my learning about this is in progress.
 ---
 
 <div align = "left">
-<img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faaustojr&show_icons=true&theme=chartreuse-dark&count_private=true"/>
-<img height = "100em" src="https://github-readme-stats.vercel.app/api?username=Faaustojr&show_icons=true&show_icons=true&theme=chartreuse-dark&count_private=true" />
+<img height = "100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Faaustojr&show_icons=true&theme=dark&count_private=true"/>
+<img height = "100em" src="https://github-readme-stats.vercel.app/api?username=Faaustojr&show_icons=true&show_icons=true&theme=dark&count_private=true" />
 </div>
