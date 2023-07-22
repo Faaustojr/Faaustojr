@@ -2,12 +2,11 @@
 
 # Hello! Welcome to my profile in GitHub! 😁
 
-I'm development student in .NET and Python. Currently working in the area of APIs in .NET Core 6 and C# 10.
-I liked a lot too about HTML5 and CSS3, my learning about this is in progress.
+I'm development student in .NET and Angular. Currently working in the area of APIs in .NET Core 6 and C# 10.
+
 
 - ❤ Anime and mangás lover.
-- ✈ Travel lover.
-- 🌇 Enjoing my city at night
+- 🌇 Enjoing my city at night.
 
 <div>
     <img src ="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title=".NET" alt=".NET" width="40" height="40"/>&nbsp;
